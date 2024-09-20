@@ -1,9 +1,9 @@
 {
-    "url": "https://raw.githubusercontent.com/Henry1601/PoC/main/swagger_xss/test.yaml",
+    "url": "https://raw.githubusercontent.com/maxntv24/Swagger_XSS/main/test.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/Henry1601/PoC/main/swagger_xss/test.yaml",
-            "name": "henry1601"
+            "url": "https://raw.githubusercontent.com/maxntv24/Swagger_XSS/main/test.yaml",
+            "name": "maxntv24"
         }
     ]
 }
